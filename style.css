@@ -1,0 +1,13 @@
+.txt-rotate {
+  position: relative;
+}
+
+.txt-rotate > .wrap {
+  /* border-right: 0.08em solid #666; */
+  color: black;
+}
+
+span {
+  display: block;
+  height: fit-content;
+}
